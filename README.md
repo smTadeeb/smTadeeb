@@ -10,7 +10,7 @@
 
 ### 🧠 About Me
 
-I'm a DevOps Engineer based in Istanbul with a passion for architecting robust, scalable, and efficient solutions. My approach blends strong analytical thinking with a keen eye for clean, maintainable code. I thrive on turning complex problems into elegant, user-centric applications.
+I'm a DevOps Engineer based in Istanbul with a passion for architecting robust, scalable, and efficient solutions.
 
 -   🔭 I’m currently working on **my startup related to Construction Industry**.
 -   🌱 I’m currently deepening my knowledge in **Cloud Architecture & Distributed Systems Plus Backend coding in C, C++ and Java**.
@@ -60,13 +60,9 @@ I believe in quality over quantity. Here's a snapshot of my contributions.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=smTadeeb&show_icons=true&theme=calm&hide_border=true&count_private=true" alt="Tadeeb's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smTadeeb&theme=calm&hide_border=true" alt="GitHub Streak" />
-</p>
+ 
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=smTadeeb&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </p>
-
 ---
 
 ### 📫 How to Reach Me
@@ -77,5 +73,3 @@ I believe in quality over quantity. Here's a snapshot of my contributions.
 <p align="center">
   <i>Let's build something amazing together.</i>
 </p>
-
-![Footer](https://github.com/smTadeeb/smTadeeb/raw/output/github-contribution-grid-snake.svg)
