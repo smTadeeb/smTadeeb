@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Tadeeb 👋</h1>
-<h3 align="center">A passionate Engineer building meaningful systems.</h3>
+<h3 align="center">A passionate LEARNER helping build the innovative things.</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tadeeb/">LinkedIn</a> •
@@ -25,11 +25,11 @@ I'm a DevOps Engineer based in Istanbul with a passion for architecting robust, 
 **Languages & Frameworks:**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 **Cloud & DevOps:**
 
@@ -42,8 +42,14 @@ I'm a DevOps Engineer based in Istanbul with a passion for architecting robust, 
 **Databases:**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**Operating Systems:**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
 
@@ -65,11 +71,11 @@ I believe in quality over quantity. Here's a snapshot of my contributions.
 
 ### 📫 How to Reach Me
 
--   **LinkedIn**: [Your LinkedIn Handle](https://www.linkedin.com/in/tadeeb/)
--   **Email**: [your.email@domain.com](mailto:smtadeeb@gmail.com)
+-   **LinkedIn**: [My LinkedIn Handle](https://www.linkedin.com/in/tadeeb/)
+-   **Email**: [My Email](mailto:smtadeeb@gmail.com)
 
 <p align="center">
   <i>Let's build something amazing together.</i>
 </p>
 
-![Footer](https://github.com/YOUR_USERNAME/YOUR_USERNAME/raw/output/github-contribution-grid-snake.svg)
+![Footer](https://github.com/smTadeeb/smTadeeb/raw/output/github-contribution-grid-snake.svg)
