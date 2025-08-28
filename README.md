@@ -21,10 +21,10 @@ I'm a DevOps Engineer based in Istanbul with a passion for architecting robust, 
 ---
 ## 🗣️ Languages
 
-![Turkish](https://img.shields.io/badge/Turkish-Native-red?style=flat-square)  
-![English](https://img.shields.io/badge/English-Fluent-blue?style=flat-square)  
-![Hindi](https://img.shields.io/badge/Hindi-Fluent-orange?style=flat-square)  
-![Urdu](https://img.shields.io/badge/Urdu-Fluent-green?style=flat-square)  
+![Turkish](https://img.shields.io/badge/Turkish-Fluent-lightgreen?style=flat-square)  
+![English](https://img.shields.io/badge/English-Fluent-lightgreen?style=flat-square)  
+![Hindi](https://img.shields.io/badge/Hindi-Fluent-lightgreen?style=flat-square)  
+![Urdu](https://img.shields.io/badge/Urdu-Native-lightgreen?style=flat-square)  
 ![Arabic](https://img.shields.io/badge/Arabic-Beginner-yellow?style=flat-square)  
 
 ### 🛠️ Tech Stack & Tools
