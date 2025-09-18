@@ -5,15 +5,6 @@
   <a href="https://www.linkedin.com/in/tadeeb/">LinkedIn</a> •
   <a href="mailto: smtadeeb@gmail.com">Email</a>
 </p>
----
-
-### 🗣️ Languages
-
-![Turkish](https://img.shields.io/badge/Turkish-Fluent-lightgreen?style=flat-square)  
-![English](https://img.shields.io/badge/English-Fluent-lightgreen?style=flat-square)  
-![Hindi](https://img.shields.io/badge/Hindi-Fluent-lightgreen?style=flat-square)  
-![Urdu](https://img.shields.io/badge/Urdu-Native-lightgreen?style=flat-square)  
-![Arabic](https://img.shields.io/badge/Arabic-Beginner-yellow?style=flat-square)  
 
 ### 🛠️ Tech Stack & Tools
 
@@ -42,6 +33,14 @@
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+### 🗣️ Languages
+
+![Turkish](https://img.shields.io/badge/Turkish-Fluent-lightgreen?style=flat-square)  
+![English](https://img.shields.io/badge/English-Fluent-lightgreen?style=flat-square)  
+![Hindi](https://img.shields.io/badge/Hindi-Fluent-lightgreen?style=flat-square)  
+![Urdu](https://img.shields.io/badge/Urdu-Native-lightgreen?style=flat-square)  
+![Arabic](https://img.shields.io/badge/Arabic-Beginner-yellow?style=flat-square)  
 
 ---
 
