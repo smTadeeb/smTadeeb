@@ -10,7 +10,7 @@
 
 ### 🧠 About Me
 
-I'm a DevOps Engineer based in Istanbul with a passion for architecting robust, scalable, and efficient solutions.
+I'm a Software Engineer based in Istanbul with a passion for architecting robust, scalable, and efficient solutions.
 
 -   🔭 I’m currently working on **my startup related to Construction Industry**.
 -   🌱 I’m currently deepening my knowledge in **Cloud Architecture & Distributed Systems Plus Backend coding in C, C++ and Java**.
