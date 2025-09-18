@@ -5,12 +5,6 @@
   <a href="https://www.linkedin.com/in/tadeeb/">LinkedIn</a> •
   <a href="mailto: smtadeeb@gmail.com">Email</a>
 </p>
-
----
-
-### 🧠 About Me
-
-I'm a Software Engineer based in Istanbul with a passion for architecting robust, scalable, and efficient solutions.
 ---
 ## 🗣️ Languages
 
