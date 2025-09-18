@@ -11,13 +11,6 @@
 ### 🧠 About Me
 
 I'm a Software Engineer based in Istanbul with a passion for architecting robust, scalable, and efficient solutions.
-
--   🔭 I’m currently working on **my startup related to Construction Industry**.
--   🌱 I’m currently deepening my knowledge in **Cloud Architecture & Distributed Systems Plus Backend coding in C, C++ and Java**.
--   👯 I’m looking to collaborate on **open-source projects or innovative startups**.
--   💬 Ask me about **DevOps, Cloud, C, CPP, Java**.
--   ⚡ I'm a certified AWS Architect and I hold a C2 level Turkish language Cert ☕.
-
 ---
 ## 🗣️ Languages
 
