@@ -6,7 +6,8 @@
   <a href="mailto: smtadeeb@gmail.com">Email</a>
 </p>
 ---
-## 🗣️ Languages
+
+### 🗣️ Languages
 
 ![Turkish](https://img.shields.io/badge/Turkish-Fluent-lightgreen?style=flat-square)  
 ![English](https://img.shields.io/badge/English-Fluent-lightgreen?style=flat-square)  
