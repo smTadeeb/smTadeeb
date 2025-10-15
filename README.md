@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Tadeeb 👋</h1>
-<h3 align="center">A passionate LEARNER helping build the innovative things.</h3>
+<h3 align="center">I am a Software Engineer and I just beleive in Consistency, Continuous learning and Hard-Work</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tadeeb/">LinkedIn</a> •
